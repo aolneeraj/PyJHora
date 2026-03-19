@@ -1,3 +1,4 @@
+ninja
 h3
 cmake
 geocoder==1.38.1
